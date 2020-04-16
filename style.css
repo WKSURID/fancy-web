@@ -11,6 +11,7 @@ body{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     margin-bottom: 150px;
 }
 
@@ -75,6 +76,7 @@ body{
     background-image:url(images/biography-bg.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     margin-bottom: 150px;
 
 }
@@ -117,7 +119,8 @@ body{
     height: 500px;
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: center;
+    background-size: cover;
     margin-bottom: 150px;
     
 }
@@ -156,6 +159,7 @@ h1{
     background-image: url(images/footer-bg.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     margin-bottom: 50px;
 }
 
